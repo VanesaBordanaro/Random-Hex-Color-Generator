@@ -4,7 +4,7 @@ Random color generator based on hex code value using HTML, CSS and JavaScript
 
 ## Preview 
 
-  - <a href="https://vanesabordanaro.github.io/random-hex-color-generator/">Live Preview</a>
+  - <a href="https://vanesabordanaro.github.io/Random-Hex-Color-Generator/">Live Preview</a>
 
 ## Overview
 
